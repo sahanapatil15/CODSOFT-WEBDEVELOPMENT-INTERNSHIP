@@ -1,0 +1,179 @@
+.body-container {
+    background-image: url('https://img.freepik.com/premium-photo/plain-brown-water-leaf-color-background_136558-28871.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 20px;
+    color: white;
+}
+
+.color {
+    color: #4d0000;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Bree serif;
+}
+
+#colorse1 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+}
+
+#colorse1:hover {
+    background-color: #4d0000;
+}
+
+#colorse2 {
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+}
+#colorse2:hover {
+    background-color: #4d0000;
+}
+
+#colorse3 {
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+}
+
+#colorse3:hover {
+    background-color: #4d0000;
+}
+
+#colorse4 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+}
+
+#colorse4:hover {
+    background-color: #4d0000;
+}
+
+#colorse5 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+}
+
+#colorse5:hover {
+    background-color: #4d0000;
+}
+
+#colorse6 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+    margin-left: 10px;
+    margin-right: 8px;
+    margin-top: 12px;
+}
+
+#colorse6:hover {
+    background-color: #4d0000;
+}
+
+#colorse7 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+    margin-left: 10px;
+    margin-right: 8px;
+    margin-top: 12px;
+}
+
+#colorse7:hover {
+    background-color: #4d0000;
+}
+
+#colorse8 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Bree serif;
+    margin-left: 10px;
+    margin-right: 8px;
+    margin-top: 12px;
+}
+
+#colorse8:hover {
+    background-color:#4d0000;
+}
+
+.body-img {
+    margin-left: 30px;
+    height: 420px;
+    width: 420px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+    border-bottom-right-radius: 10px;
+}
+
+.body-head-part {
+    margin-left: 60px;
+    margin-right: 10px;
+}
+
+.coffee-shop {
+    color: white;
+    font-family: Apple Chancery ;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.color2 {
+    color: #4d0000;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: times;
+}
+
+.color3 {
+    color: #340303c7;
+    font-size: 21px;
+    font-weight: normal;
+    font-family: times;
+}
+
+.buttons {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    font-family: roboto;
+    font-weight: bold;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+
+.button:hover {
+    background-color: #4d0000;
+}
+
+.margins {
+    margin-top: 20px;
+}
+
+.padd {
+    margin-left: 22px;
+}
