@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="cal.css">
+   <title>Calulator</title>
+</head>
+<body>
+   <div class="main">
+      <input type="text" id = 'cal'>
+      <div class="btn">
+         <input type="button" value = 'AC' onclick = "AllClear()">
+         <input type="button" value = '%' onclick = "Answer('%')">
+         <input type="button" value = 'del' onclick ="Del('del')">
+         <input type="button" value = '/' onclick = "Answer('/')">
+         <br>
+         <input type="button" value = '7' onclick = "Answer('7')">
+         <input type="button" value = '8' onclick = "Answer('8')">
+         <input type="button" value = '9' onclick = "Answer('9')">
+         <input type="button" value = 'x' onclick = "Answer('*')">
+         <br>
+         <input type="button" value = '4' onclick = "Answer('4')">
+         <input type="button" value = '5' onclick = "Answer('5')">
+         <input type="button" value = '6' onclick = "Answer('6')">
+         <input type="button" value = '-' onclick = "Answer('-')">
+         <br>
+         <input type="button" value = '1' onclick = "Answer('1')">
+         <input type="button" value = '2' onclick = "Answer('2')">
+         <input type="button" value = '3' onclick = "Answer('3')">
+         <input type="button" value = '+' onclick = "Answer('+')">
+         <br>
+         <input type="button" value = '00'onclick = "Answer('00')">
+         <input type="button" value = '0' onclick = "Answer('0')">
+         <input type="button" value = '.' onclick = "Answer('.')">
+         <input type="button" value = '=' onclick = "Result()">
+      </div>
+   </div>
+   <script src = 'cal.js' ></script>
+</body>
+</html>
